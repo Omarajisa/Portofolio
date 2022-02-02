@@ -1,0 +1,21 @@
+body{
+  min-height: 200rem;
+}
+
+.jumbotron {
+    padding-top: 9rem;
+  }
+
+.about {
+  padding-top: 14rem;
+  padding-bottom: 10rem;
+}
+
+.gallery {
+  padding-top: 4rem;
+  padding-bottom: 10rem ;
+}
+
+.contact {
+  padding-bottom:1rem ;
+} 
